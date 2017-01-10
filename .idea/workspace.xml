@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c0131d8-dbba-4ccd-a2bd-2587a571602b" name="Default" comment="" />
+    <list default="true" id="2c0131d8-dbba-4ccd-a2bd-2587a571602b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/VarelaRound-Regular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ajax_loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/focus1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ld.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ldred.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/plus.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Navigation/Level_One.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Navigation/add_member.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/autocomplt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DeleteMembers/delete_member.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DeleteMembers/delete_member2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DeleteMembers/delete_member3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DeleteMembers/delete_memberall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Memberslist/list_members.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Memberslist/list_members2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Memberslist/list_members3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Memberslist/list_membersall.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/list/listview.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/process.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/list/sch.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scheme.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SearchEngine/search.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/stylz.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inc/tranc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SearchEngine/transact.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Navigation/upgrad.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Navigation/upgrade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="focus-scheme.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,7 +73,103 @@
     <favorites_list name="focus-scheme" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="add_member.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Navigation/add_member.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.230769">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <folding>
+                <marker date="1484058433517" expanded="true" signature="2434:2488" placeholder="INSERT INTO ..." />
+                <marker date="1484058433517" expanded="true" signature="2743:2822" placeholder="INSERT INTO ..." />
+                <marker date="1484058433517" expanded="true" signature="3100:3152" placeholder="UPDATE level..." />
+                <marker date="1484058433517" expanded="true" signature="3532:3636" placeholder="INSERT INTO ..." />
+                <marker date="1484058433517" expanded="true" signature="3790:3851" placeholder="UPDATE level..." />
+                <marker date="1484058433517" expanded="true" signature="4057:4177" placeholder="INSERT INTO ..." />
+                <marker date="1484058433517" expanded="true" signature="4480:4532" placeholder="UPDATE level..." />
+                <marker date="1484058433517" expanded="true" signature="4717:4778" placeholder="UPDATE level..." />
+                <marker date="1484058433517" expanded="true" signature="4994:5098" placeholder="INSERT INTO ..." />
+                <marker date="1484058433517" expanded="true" signature="5227:5261" placeholder="DELETE FROM ..." />
+                <marker date="1484058433517" expanded="true" signature="5336:5357" placeholder="ALTER TABLE level_one..." />
+                <marker date="1484058433517" expanded="true" signature="5389:5427" placeholder="ALTER TABLE level_one..." />
+                <marker date="1484058433517" expanded="true" signature="5451:5534" placeholder="ALTER TABLE level_one..." />
+                <marker date="1484058433517" expanded="true" signature="5744:5867" placeholder="INSERT INTO ..." />
+                <marker date="1484058433517" expanded="true" signature="6262:6316" placeholder="UPDATE level..." />
+                <marker date="1484058433517" expanded="true" signature="6532:6596" placeholder="UPDATE level..." />
+                <marker date="1484058433517" expanded="true" signature="6853:6957" placeholder="INSERT INTO ..." />
+                <marker date="1484058433517" expanded="true" signature="7129:7163" placeholder="DELETE FROM ..." />
+                <marker date="1484058433517" expanded="true" signature="7242:7263" placeholder="ALTER TABLE level_two..." />
+                <marker date="1484058433517" expanded="true" signature="7314:7352" placeholder="ALTER TABLE level_two..." />
+                <marker date="1484058433517" expanded="true" signature="7392:7475" placeholder="ALTER TABLE level_two..." />
+                <marker date="1484058433517" expanded="true" signature="7856:7987" placeholder="INSERT INTO ..." />
+                <marker date="1484058433517" expanded="true" signature="8160:8264" placeholder="INSERT INTO ..." />
+                <marker date="1484058433517" expanded="true" signature="8400:8436" placeholder="DELETE FROM ..." />
+                <marker date="1484058433517" expanded="true" signature="8514:8537" placeholder="ALTER TABLE level_three..." />
+                <marker date="1484058433517" expanded="true" signature="8568:8608" placeholder="ALTER TABLE level_three..." />
+                <marker date="1484058433517" expanded="true" signature="8631:8716" placeholder="ALTER TABLE level_three..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delete_memberall.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DeleteMembers/delete_memberall.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1483989949677" expanded="true" signature="265:298" placeholder="DELETE FROM ..." />
+                <marker date="1483989949677" expanded="true" signature="439:457" placeholder="ALTER TABLE member..." />
+                <marker date="1483989949677" expanded="true" signature="508:543" placeholder="ALTER TABLE member..." />
+                <marker date="1483989949677" expanded="true" signature="583:663" placeholder="ALTER TABLE member..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_members.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Memberslist/list_members.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1484058248005" expanded="true" signature="484:517" placeholder="SELECT * FRO..level_one..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Level_One.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Navigation/Level_One.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="transact.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SearchEngine/transact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -31,11 +179,17 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/DeleteMembers/Memberslist/list_members.php" />
+        <option value="$PROJECT_DIR$/Navigation/Level_One.php" />
+        <option value="$PROJECT_DIR$/SearchEngine/transact.php" />
       </list>
     </option>
   </component>
@@ -84,6 +238,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="focus-scheme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="focus-scheme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -92,6 +256,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Programming\PhpstormProjects\focus-scheme\SearchEngine" />
+      <recent name="C:\Users\Programming\PhpstormProjects\focus-scheme\inc" />
+      <recent name="C:\Users\Programming\PhpstormProjects\focus-scheme\Navigation" />
+      <recent name="C:\Users\Programming\PhpstormProjects\focus-scheme" />
+      <recent name="C:\Users\Programming\PhpstormProjects\focus-scheme\DeleteMembers\Memberslist" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -138,7 +313,13 @@
       <option name="project" value="LOCAL" />
       <updated>1484057189218</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Refactored Directories">
+      <created>1484058482338</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1484058482339</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -172,10 +353,96 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="coll" />
     <MESSAGE value="Added all Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added all Files" />
+    <MESSAGE value="Refactored Directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored Directories" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Navigation/add_member.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <marker date="1484058433517" expanded="true" signature="2434:2488" placeholder="INSERT INTO ..." />
+            <marker date="1484058433517" expanded="true" signature="2743:2822" placeholder="INSERT INTO ..." />
+            <marker date="1484058433517" expanded="true" signature="3100:3152" placeholder="UPDATE level..." />
+            <marker date="1484058433517" expanded="true" signature="3532:3636" placeholder="INSERT INTO ..." />
+            <marker date="1484058433517" expanded="true" signature="3790:3851" placeholder="UPDATE level..." />
+            <marker date="1484058433517" expanded="true" signature="4057:4177" placeholder="INSERT INTO ..." />
+            <marker date="1484058433517" expanded="true" signature="4480:4532" placeholder="UPDATE level..." />
+            <marker date="1484058433517" expanded="true" signature="4717:4778" placeholder="UPDATE level..." />
+            <marker date="1484058433517" expanded="true" signature="4994:5098" placeholder="INSERT INTO ..." />
+            <marker date="1484058433517" expanded="true" signature="5227:5261" placeholder="DELETE FROM ..." />
+            <marker date="1484058433517" expanded="true" signature="5336:5357" placeholder="ALTER TABLE level_one..." />
+            <marker date="1484058433517" expanded="true" signature="5389:5427" placeholder="ALTER TABLE level_one..." />
+            <marker date="1484058433517" expanded="true" signature="5451:5534" placeholder="ALTER TABLE level_one..." />
+            <marker date="1484058433517" expanded="true" signature="5744:5867" placeholder="INSERT INTO ..." />
+            <marker date="1484058433517" expanded="true" signature="6262:6316" placeholder="UPDATE level..." />
+            <marker date="1484058433517" expanded="true" signature="6532:6596" placeholder="UPDATE level..." />
+            <marker date="1484058433517" expanded="true" signature="6853:6957" placeholder="INSERT INTO ..." />
+            <marker date="1484058433517" expanded="true" signature="7129:7163" placeholder="DELETE FROM ..." />
+            <marker date="1484058433517" expanded="true" signature="7242:7263" placeholder="ALTER TABLE level_two..." />
+            <marker date="1484058433517" expanded="true" signature="7314:7352" placeholder="ALTER TABLE level_two..." />
+            <marker date="1484058433517" expanded="true" signature="7392:7475" placeholder="ALTER TABLE level_two..." />
+            <marker date="1484058433517" expanded="true" signature="7856:7987" placeholder="INSERT INTO ..." />
+            <marker date="1484058433517" expanded="true" signature="8160:8264" placeholder="INSERT INTO ..." />
+            <marker date="1484058433517" expanded="true" signature="8400:8436" placeholder="DELETE FROM ..." />
+            <marker date="1484058433517" expanded="true" signature="8514:8537" placeholder="ALTER TABLE level_three..." />
+            <marker date="1484058433517" expanded="true" signature="8568:8608" placeholder="ALTER TABLE level_three..." />
+            <marker date="1484058433517" expanded="true" signature="8631:8716" placeholder="ALTER TABLE level_three..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeleteMembers/delete_memberall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1483989949677" expanded="true" signature="265:298" placeholder="DELETE FROM ..." />
+            <marker date="1483989949677" expanded="true" signature="439:457" placeholder="ALTER TABLE member..." />
+            <marker date="1483989949677" expanded="true" signature="508:543" placeholder="ALTER TABLE member..." />
+            <marker date="1483989949677" expanded="true" signature="583:663" placeholder="ALTER TABLE member..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Memberslist/list_members.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1484058248005" expanded="true" signature="484:517" placeholder="SELECT * FRO..level_one..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Navigation/Level_One.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SearchEngine/transact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
