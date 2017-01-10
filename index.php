@@ -1,6 +1,6 @@
 
 
-<?include("header.php"); ?>
+<? include("header.php"); ?>
 <a href="index.php" type= button class="btn btn-primary" id="refresh"> Refresh</a>
 
 <div class="content">
