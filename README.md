@@ -1,4 +1,4 @@
-# focus-scheme
+# FOCUS SCHEME
 
    ![Focus](https://github.com/Lesruez/focus-scheme/blob/master/images/focus1.png)
 
